@@ -5,7 +5,7 @@ django-session-timeout==0.1.0
 EasyProcess==0.3
 entrypoint2==0.2.1
 phonenumbers==8.12.3
-Pillow==7.1.2
+Pillow==8.3.2
 pyscreenshot==1.0
 pytz==2020.1
 six==1.14.0
