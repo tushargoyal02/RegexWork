@@ -1,5 +1,5 @@
 autopy==4.0.0
-Babel==2.8.0
+Babel==2.9.1
 Django==2.2.10
 django-session-timeout==0.1.0
 EasyProcess==0.3
